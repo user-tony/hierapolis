@@ -13,6 +13,8 @@ gem 'middleman-sprockets', '3.3.2'
 # Middleman-deploy
 gem 'middleman-deploy', '~> 0.2.4'
 
+gem 'slim'
+
 # For faster file watcher updates on Windows:
 gem 'wdm', '~> 0.1.0', :platforms => [:mswin, :mingw]
 
